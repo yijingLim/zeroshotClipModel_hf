@@ -1,0 +1,10 @@
+torch
+tensorflow
+pillow
+onx
+torchvision
+onnxscript
+optimum[exporters]
+onnx_tf
+flask
+flask-restful

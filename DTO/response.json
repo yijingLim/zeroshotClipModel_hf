@@ -1,0 +1,67 @@
+{
+    "results": [
+        {
+            "image_url": "https://unsplash.com/photos/xBRQfR2bqNI/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjc4Mzg4ODEx&force=true&w=640",
+            "prediction": [
+                {
+                    "label": "car",
+                    "score": "0.99872"
+                },
+                {
+                    "label": "bike",
+                    "score": "0.00095"
+                },
+                {
+                    "label": "tree",
+                    "score": "0.0003"
+                },
+                {
+                    "label": "cat",
+                    "score": "3e-05"
+                }
+            ]
+        },
+        {
+            "image_url": "https://unsplash.com/photos/g8oS8-82DxI/download?ixid=MnwxMjA3fDB8MXx0b3BpY3x8SnBnNktpZGwtSGt8fHx8fDJ8fDE2NzgxMDYwODc&force=true&w=640",
+            "prediction": [
+                {
+                    "label": "tree",
+                    "score": "0.75839"
+                },
+                {
+                    "label": "car",
+                    "score": "0.1285"
+                },
+                {
+                    "label": "cat",
+                    "score": "0.09901"
+                },
+                {
+                    "label": "bike",
+                    "score": "0.01411"
+                }
+            ]
+        },
+        {
+            "image_url": "https://unsplash.com/photos/oj0zeY2Ltk4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MTR8fHBpY25pY3xlbnwwfHx8fDE2Nzc0OTE1NDk&force=true&w=640",
+            "prediction": [
+                {
+                    "label": "tree",
+                    "score": "0.52683"
+                },
+                {
+                    "label": "car",
+                    "score": "0.30348"
+                },
+                {
+                    "label": "bike",
+                    "score": "0.14854"
+                },
+                {
+                    "label": "cat",
+                    "score": "0.02115"
+                }
+            ]
+        }
+    ]
+}
