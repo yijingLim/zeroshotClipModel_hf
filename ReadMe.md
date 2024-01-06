@@ -38,9 +38,9 @@ app/
 |--dto.py
 |--model.py
 |--utils.py
-DTO/
-|--request.json
-|--response.json
+|--DTO/
+   |--request.json
+   |--response.json
 hf_save/
 |--image_processor/
 |--models/

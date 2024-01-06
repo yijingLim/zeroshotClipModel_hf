@@ -8,3 +8,4 @@ optimum[exporters]
 onnx_tf
 flask
 flask-restful
+pytest
